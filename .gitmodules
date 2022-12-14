@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AnxietySleep"]
+	path = AnxietySleep
+	url = https://github.com/nim-ach/anxietysleep
+	shallow = true
+	registered = true
 [submodule "youngSwimmers"]
 	path = youngSwimmers
 	url = https://github.com/nim-ach/youngswimmers

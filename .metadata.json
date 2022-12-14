@@ -1,5 +1,9 @@
 [
   {
+    "package": "AnxietySleep",
+    "oncran": true
+  },
+  {
     "package": "youngSwimmers",
     "oncran": true
   }
